@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naresh Kumar
 
-## 📊 Data Analyst | SQL | Power BI | Excel | Python
+## 📊 Data Analyst | SQL | Power BI | Excel | Python | Tableau
 
 I analyze data and build dashboards to generate business insights and support decision-making.
 
